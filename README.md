@@ -25,21 +25,7 @@ I mostly specialize in developing Frontend applications, as well as designing th
 I was also a finalist in the CyberChallenge.it 2025 Program, where my passion for Cybersecurity grew, and I'm currently a tutor for the next generation of Cyber-Defenders that will come from the next editions. As a tutor, I am developing some custom CTF challenges for the students to play, trying to teach them about AI security and prompt engineering.   
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
+<br/>   
 
 
 ## Languages and Tools  
