@@ -84,9 +84,3 @@ I was also a finalist in the CyberChallenge.it 2025 Program, where my passion fo
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
