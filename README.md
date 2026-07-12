@@ -18,11 +18,9 @@
 
 
 ### I'm Francesco Papa, Glad to see you!  
-I’m a 19y/o Computer Science engineering student, working a part-time job as a Full-Stack developer with a burning passion for Cybersecurity
+I’m a 20y/o Computer Science engineering student, with experience as a Full-Stack developer and a burning passion for Cybersecurity
 
-I mostly specialize in developing Frontend applications, as well as designing the UI and UX, but my job requires me to bring the best out of a strong Backend to keep the data safe and the overall applications smooth. Unfortunately, all projects about my job are private, so they are not exposed here. What I can instead show here are some passion projects, that utilize and test my skills as a Software Developer, Cybersecurity Enthusiast and more.
-
-I was also a finalist in the CyberChallenge.it 2025 Program, where my passion for Cybersecurity grew, and I'm currently a tutor for the next generation of Cyber-Defenders that will come from the next editions. As a tutor, I am developing some custom CTF challenges for the students to play, trying to teach them about AI security and prompt engineering.   
+I mostly specialize in developing Frontend applications, as well as designing the UI and UX, but my job requires me to bring the best out of a strong Backend to keep the data safe and the overall applications smooth. Unfortunately, all projects about my job are private, so they are not exposed here. What I can instead show here are some passion projects, that utilize and test my skills as a Software Developer, Cybersecurity Enthusiast and more.  
   
 
 <br/>   
