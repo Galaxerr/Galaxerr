@@ -1,84 +1,101 @@
-## Hi There! 
-  
+# Francesco Papa
 
-<a href="https://github.com/Galaxerr" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/fre.papa" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/Galaxer" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/francesco-papa-171745374" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
+**Computer Engineering student & Software Developer**  
+Interested in backend engineering, data-intensive applications, cloud technologies, and building software that solves real problems.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francesco_Papa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-papa-dev)
+[![Email](https://img.shields.io/badge/Email-francescopapa.info%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:francescopapa.info@gmail.com)
 
+### About me
 
-### I'm Francesco Papa, Glad to see you!  
-I’m a 20y/o Computer Science engineering student, with experience as a Full-Stack developer and a burning passion for Cybersecurity
+- 🎓 B.Sc. student in **Electronics and Computer Science Engineering** at the University of Ferrara — graduating in 2027.
+- 💼 Previously worked part-time as a **Full-Stack Software Developer at Tecnograph** alongside university.
+- ⚙️ Particularly interested in **backend systems, databases, cloud infrastructure, and software engineering**.
+- 🌍 Looking for **Summer 2027 Software Engineering internships** across Europe.
 
-I mostly specialize in developing Frontend applications, as well as designing the UI and UX, but my job requires me to bring the best out of a strong Backend to keep the data safe and the overall applications smooth. Unfortunately, all projects about my job are private, so they are not exposed here. What I can instead show here are some passion projects, that utilize and test my skills as a Software Developer, Cybersecurity Enthusiast and more.  
-  
+---
 
-<br/>   
+## Featured projects
 
+### 📱 [TLDR Newsletter for Android](https://github.com/Galaxerr/tldr-newsletter-app)
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="25" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-</div>  
+**React Native · Expo · Gmail API · OAuth · Local encrypted storage**
 
-<br/>  
+An Android application that retrieves TLDR newsletters directly from a user's Gmail account and turns them into an offline, searchable reading experience.
 
+The application handles Gmail authentication and message verification, parses heterogeneous newsletter content, maintains encrypted per-account local libraries, and works without a dedicated application backend.
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+→ **[Explore the project](https://github.com/Galaxerr/tldr-newsletter-app)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=Galaxerr&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+### 🔧 [Pokédex](https://github.com/Galaxerr/Pokedex_React) — currently rebuilding
 
-</td><td valign="top" width="50%">
+A full-stack project I'm rebuilding to replace an older application architecture with a cleaner, production-oriented design.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxerr&hide_border=true&layout=compact" align="left" style="width: 100%" />
+The new version focuses on a structured API, PostgreSQL-backed persistence, caching, automated data ingestion, and a modern React frontend.
 
-</td></tr></table>  
+→ **[Follow the rebuild](https://github.com/Galaxerr/Pokedex_React)**
 
-<br/>  
+---
 
-  
+## Professional experience
 
-<br/>  
+At **Tecnograph**, I worked on a production web application used by **200+ daily users** to evaluate broadband availability across Italian addresses.
 
-![Profile views counter](https://komarev.com/ghpvc/?username=Galaxerr&&style=flat-square)  
-  
+Some of the engineering work included:
 
-<br/>  
+- Reduced a core workflow from **~15 seconds to under 1 second** using indexed PostgreSQL queries and parallel API requests.
+- Designed automated ingestion for **30+ GB datasets containing millions of records**.
+- Worked with **Next.js, NestJS, Prisma and PostgreSQL** across the application stack.
+- Integrated **SAML 2.0 SSO with Okta MFA**.
+- Worked with Dockerized applications deployed on Linux.
+
+---
+
+## Tech
+
+**Languages**  
+`Python` · `TypeScript` · `JavaScript` · `SQL` · `Java` · `C++` · `Bash`
+
+**Backend & Web**  
+`FastAPI` · `NestJS` · `Django` · `Next.js` · `React` · `React Native`
+
+**Data & Infrastructure**  
+`PostgreSQL` · `Prisma` · `Docker` · `Linux` · `Git`
+
+**APIs & Authentication**  
+`REST` · `OAuth 2.0` · `SAML 2.0`
+
+---
+
+## Highlights
+
+- ☁️ **Google Cloud European University Challenge 2026** — Top 50 overall; **8th place in May** and **10th place in March**.
+- 🛡️ **CyberChallenge.IT 2025** — 1st on Ferrara's training leaderboard, 4th in the local individual qualifier, and member of Ferrara's team at the national finals.
+- 🚩 Solved **150+ CTF challenges**, including web exploitation and reverse engineering.
+
+---
+
+## GitHub
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Galaxerr&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&theme=github_dark_dimmed"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Galaxerr&show_icons=true&hide_title=true&hide_rank=true&hide_border=true"
+  />
+  <img
+    alt="Francesco Papa's GitHub statistics"
+    src="https://github-readme-stats.vercel.app/api?username=Galaxerr&show_icons=true&hide_title=true&hide_rank=true&hide_border=true"
+  />
+</picture>
+
+---
+
+### Get in touch
+
+I'm always interested in discussing software engineering, backend systems, cloud technologies, cybersecurity, or internship opportunities.
+
+**[LinkedIn](https://linkedin.com/in/francesco-papa-dev) · [Email](mailto:francescopapa.info@gmail.com)**
