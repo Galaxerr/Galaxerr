@@ -1,21 +1,31 @@
+
 # Francesco Papa
 
 **Computer Engineering student & Software Developer**  
-Interested in backend engineering, data-intensive applications, cloud technologies, and building software that solves real problems.
+Interested in **Software Development, Cybersecurity, AI/ML, Mobile and more** building practical projects and exploring different areas of technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Francesco_Papa-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-papa-dev)
 [![Email](https://img.shields.io/badge/Email-francescopapa.info%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:francescopapa.info@gmail.com)
 
 ### About me
 
-- 🎓 B.Sc. student in **Electronics and Computer Science Engineering** at the University of Ferrara — graduating in 2027.
+- 🎓 B.Sc. student in **Electronics and Computer Science Engineering** at the University of Ferrara, graduating in 2027.
 - 💼 Previously worked part-time as a **Full-Stack Software Developer at Tecnograph** alongside university.
-- ⚙️ Particularly interested in **backend systems, databases, cloud infrastructure, and software engineering**.
-- 🌍 Looking for **Summer 2027 Software Engineering internships** across Europe.
+- ⚙️ Interested in **Software Development, Cybersecurity, AI/ML, Mobile and more**.
 
 ---
 
 ## Featured projects
+
+### 🤖 [EMURU](https://github.com/Galaxerr/EMURU) (currently building)
+
+**Python · Hermes · Ollama · MCP · Obsidian · Docker · Telegram**
+
+EMURU is a self-hosted personal knowledge assistant I'm actively building. It connects an AI agent to an Obsidian vault, allowing it to search notes, navigate their relationships, and save new information through Telegram.
+
+I'm continuing to develop its containerized infrastructure and AI model routing using Ollama and LiteLLM.
+
+→ **[Follow the development](https://github.com/Galaxerr/EMURU)**
 
 ### 📱 [TLDR Newsletter for Android](https://github.com/Galaxerr/tldr-newsletter-app)
 
@@ -27,7 +37,7 @@ The application handles Gmail authentication and message verification, parses he
 
 → **[Explore the project](https://github.com/Galaxerr/tldr-newsletter-app)**
 
-### 🔧 [Pokédex](https://github.com/Galaxerr/Pokedex_React) — currently rebuilding
+### 🔧 [Pokédex](https://github.com/Galaxerr/Pokedex_React) (currently rebuilding)
 
 A full-stack project I'm rebuilding to replace an older application architecture with a cleaner, production-oriented design.
 
@@ -69,8 +79,8 @@ Some of the engineering work included:
 
 ## Highlights
 
-- ☁️ **Google Cloud European University Challenge 2026** — Top 50 overall; **8th place in May** and **10th place in March**.
-- 🛡️ **CyberChallenge.IT 2025** — 1st on Ferrara's training leaderboard, 4th in the local individual qualifier, and member of Ferrara's team at the national finals.
+- ☁️ **Google Cloud European University Challenge 2026** Top 50 overall; **8th place in May** and **10th place in March**.
+- 🛡️ **CyberChallenge.IT 2025** 1st on Ferrara's training leaderboard, 4th in the local individual qualifier, and member of Ferrara's team at the national finals.
 - 🚩 Solved **150+ CTF challenges**, including web exploitation and reverse engineering.
 
 ---
@@ -96,6 +106,6 @@ Some of the engineering work included:
 
 ### Get in touch
 
-I'm always interested in discussing software engineering, backend systems, cloud technologies, cybersecurity, or internship opportunities.
+I'm always interested in discussing software development, cybersecurity, AI/ML, mobile applications, and interesting projects.
 
 **[LinkedIn](https://linkedin.com/in/francesco-papa-dev) · [Email](mailto:francescopapa.info@gmail.com)**
